@@ -1,0 +1,11 @@
+# SwiftKart capstone runtime dependencies (pinned for reproducibility)
+# Version snapshot checked against PyPI on 2026-09-09.
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+pydantic==2.13.5
+crewai==1.15.20
+chromadb==1.5.9
+sentence-transformers==6.0.1
+langchain-core==1.6.2
+autogen-agentchat==0.7.5
+autogen-core==0.7.5
