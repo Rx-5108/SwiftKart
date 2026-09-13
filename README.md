@@ -1,6 +1,6 @@
 # SwiftKart Agentic Customer Support System
 
-A capstone-ready customer-support system combining **RAG, CrewAI agents, tool use, session memory, guardrails, evaluation, caching, governance, a FastAPI API, WebSocket responses, and an AutoGen review stage**.
+A customer-support system combining **RAG, CrewAI agents, tool use, session memory, guardrails, evaluation, caching, governance, a FastAPI API, WebSocket responses, and an AutoGen review stage**.
 
 ## 1. Project goals
 
