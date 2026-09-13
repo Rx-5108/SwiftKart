@@ -1,0 +1,26 @@
+=== TASK 11: FASTAPI ENDPOINT TRANSCRIPTS ===
+
+--- POST /ask ---
+Request:
+{
+  "query": "What is the return window for electronics?"
+}
+
+Response:
+{
+  "answer": "Based on SwiftKart policy: ing defects only, applicable after the initial 7-day replacement window is over. Warranty claims must be raised through customer support along with proof of purchase. Physical damage and water damage \nivery window, customers can contact support to check the delay and request assistance.\nutlined in the return policy...",
+  "escalation_score": 0.65
+}
+
+--- POST /add-document ---
+Request:
+{
+  "text": "SwiftKart offers same-day delivery in select metro cities for an additional fee.",
+  "topic": "same_day_delivery"
+}
+
+Response:
+{
+  "success": true,
+  "message": "Document doc_api_50 added successfully."
+}
